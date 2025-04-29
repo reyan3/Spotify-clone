@@ -1,0 +1,16 @@
+.off{
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 100%;
+    margin-left: 12vw;
+    height: 30px;
+    width: 30px;
+}
+
+.white{
+    filter: invert(1);
+    background-color: white;
+}
+
+
