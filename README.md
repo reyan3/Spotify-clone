@@ -27,3 +27,6 @@ It includes a fully functional **playbar**, essential **UI/UX elements**, and a 
 
 ## Website Demo 👇🏻
 - https://spotify-clon-e.netlify.app/
+
+## 📜 License
+This project is for learning purposes and is not intended for commercial use.
